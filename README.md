@@ -6,6 +6,8 @@ News Tracker Application
 
 TEAM MEMBER:
             GOWRIMANOKARAN.S
+           
             JAIPRAKASH.S
+            
             SANJAY.S
             
