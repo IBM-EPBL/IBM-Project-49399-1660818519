@@ -4,10 +4,8 @@ News Tracker Application
  TEAM LEADER: 
              KAVIYARASAN.K 
 
-TEAM MEMBER:
+TEAM MEMBERS:
             GOWRIMANOKARAN.S
-           
             JAIPRAKASH.S
-            
             SANJAY.S
             
